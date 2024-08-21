@@ -28,3 +28,4 @@ This project is purely for practice purposes. It helps in understanding how to s
 ## Acknowledgments
 
 Icons used in this project are from [Boxicons](https://boxicons.com/).
+For better view, set your chrome browser view to 90%
